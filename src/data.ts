@@ -15,5 +15,5 @@ export const headerData = {
     },
   ],
   tech: ['React.js', 'Mantine a frontend components framework', 'Tiktokwm Api'],
-  dev: 'Muhammad Faizan with ❤️',
+  dev: 'Nisar Gondal & Zain with ❤️',
 };
