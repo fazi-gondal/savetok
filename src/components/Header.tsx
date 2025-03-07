@@ -43,7 +43,7 @@ const Header: React.FC = () => {
       >
         <Divider my='sm' />
         <Title order={2} color='grape'>
-          SaveTok by Fazi.
+          SaveTok by Nisar & Zain.
         </Title>
         <Text>{headerData.subTitle}</Text>
         <Space h='lg' />
