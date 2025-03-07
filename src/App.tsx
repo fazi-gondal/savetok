@@ -37,7 +37,7 @@ export default function App() {
             <Header />
 
             <Title order={3} align='center' sx={{ marginTop: '4em' }}>
-              Tiktok Video Downloader by fazi🧡
+              Tiktok Video Downloader by Nisar & Zain.
             </Title>
             <Title order={6} align='center'>
               Download Tiktok Videos Without Watermark
